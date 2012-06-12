@@ -4,12 +4,12 @@
 ```
 git clone git://github.com/revans/bash-it.git
 ```
-* Go to bash-it themes folder.
 * Get my theme:
 
 ```
-git clone git://github.com/after.design/bash_it_theme after.design
+git clone git://github.com/afterdesign/bash_it_theme.git
 ```
+* Move after.design folder to bash-it themes folder.
 * Set theme for bash-it in .bashrc or .bash_profile:
 
 ```
