@@ -1,4 +1,5 @@
 ##Simple theme for bash-it
+![Bash-it theme](http://malinowski.be/bash_it_theme/images/screenshot.png)
 * Get bash-it:
 
 ```
